@@ -55,23 +55,8 @@ Starbucks-India-Sales-Analytics-Dashboard/
 ```
 
 ## Dashboard Preview
-Page1: Overview
-<img width="846" height="472" alt="Overview" src="https://github.com/user-attachments/assets/d4f867bc-06c6-4d86-a040-a7191701bcce" />
-
-Page 2: Sales
-<img width="846" height="473" alt="Sales" src="https://github.com/user-attachments/assets/12570462-56a1-424c-b004-53e570e8cd15" />
-
-Page 3: Store
-<img width="844" height="474" alt="Stores" src="https://github.com/user-attachments/assets/fe838bb8-e95c-49d3-809f-9d9bab6139d1" />
-
-Page 4: Product
-<img width="846" height="474" alt="Product" src="https://github.com/user-attachments/assets/d8576af5-7b8c-4003-b423-063d1d5bcac8" />
-
-Page 5: Customers
-<img width="844" height="473" alt="Customers" src="https://github.com/user-attachments/assets/cc85ab41-11a7-41f0-919b-9d35e412a764" />
-
-Page 6: Report
-<img width="842" height="474" alt="Report" src="https://github.com/user-attachments/assets/c2bca6a7-eb15-4f9d-b9f8-c9acaf0e9bf6" />
+The Screenshots folder contains six dashboard pages:
+Overview, Sales, Stores, Products, Customers, and Report.
 
 ## Project Objective
 
